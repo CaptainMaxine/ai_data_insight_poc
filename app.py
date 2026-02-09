@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="AI Data Insight Assistant", layout="wide")
 
-st.title("AI Data Insight Assistant (Enhanced Prototype)")
+st.title("AI Data Insight Assistant (Prototype)")
 st.write("A concept demo showing how PMs could get low-friction, automated insights — including statistical profiling, risk detection, and AI-style summaries (mocked).")
 
 # -----------------------
