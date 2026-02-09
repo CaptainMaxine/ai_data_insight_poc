@@ -100,7 +100,7 @@ if uploaded:
     # -----------------------
     # 5. AI-STYLE SUMMARY (Mock)
     # -----------------------
-    st.header("5. AI-Style Insight Summary (Mock Output)")
+    st.header("5. Insight Summary (Mock Output)")
     mock_ai_summary = f"""
 ### Executive Summary
 The uploaded dataset contains **{df.shape[0]} rows** and **{df.shape[1]} columns**.  
